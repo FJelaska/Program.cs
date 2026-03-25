@@ -8,6 +8,6 @@ namespace Program.cs
 { //moja promjena
     internal class Class1
     {
-        //lol
+        //promjena2
     }
 }
